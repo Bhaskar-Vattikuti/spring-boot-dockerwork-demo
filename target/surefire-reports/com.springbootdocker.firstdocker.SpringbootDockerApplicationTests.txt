@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.springbootdocker.firstdocker.SpringbootDockerApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.533 s - in com.springbootdocker.firstdocker.SpringbootDockerApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.672 s - in com.springbootdocker.firstdocker.SpringbootDockerApplicationTests
