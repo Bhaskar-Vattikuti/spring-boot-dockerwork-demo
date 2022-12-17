@@ -11,7 +11,7 @@ public class SpringbootDockerApplication {
 	@GetMapping
 	public String getmsg()
 	{
-		return "hai this is bhaskar";
+		return "hai this is bhaskar persistent";
 	}
 
 	public static void main(String[] args) {
