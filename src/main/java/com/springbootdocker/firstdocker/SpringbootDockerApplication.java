@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 @RestController
 public class SpringbootDockerApplication {
-	@GetMapping("/getmsg")
+	@GetMapping
 	public String getmsg()
 	{
 		return "hai this is tejas";
